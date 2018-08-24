@@ -1,1 +1,1 @@
-docker exec -it payments_web_1 /bin/bash
+docker exec -it phppaymentsapi_web_1 /bin/bash
